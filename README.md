@@ -2,6 +2,8 @@
 
 This is a really simple template for anyone to create their own link in bio style page using only HTML and CSS. **You should never use a link in bio website if you know how to create your own.**
 
+You can see this website in action at https://links.bylogan.com.
+
 There are many benefits to creating your own web page for your bio:
 * customization
 * search engine optimization
