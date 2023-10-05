@@ -26,6 +26,7 @@ Here are the following things you should change:
 * The favicon
 * Social icons and their links
 * Newsletter sign ups
+* Analytics tracking tag (replace using instructions below or remove if not using analytics)
 
 Otherwise, you'll be stuck with my links.
 
