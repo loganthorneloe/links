@@ -21,6 +21,7 @@ Here are the following things you should change:
 * The bio
 * All links
 * All images
+* The favicon
 * Social icons and their links
 * Newsletter sign ups
 
