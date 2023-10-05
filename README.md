@@ -25,7 +25,6 @@ Here are the following things you should change:
 * All images
 * The favicon
 * Social icons and their links
-* Newsletter sign ups
 * Analytics tracking tag (replace using instructions below or remove if not using analytics)
 
 Otherwise, you'll be stuck with my links.
@@ -34,7 +33,7 @@ Otherwise, you'll be stuck with my links.
 
 You can change the colors of the webpage by adjusting the variables in the `:root` tag at the top of `styles.css`. You can also add a background image or change your font there. Really, you an edit whatever you want in this file to customize the styles of the webpage.
 
-You can also change the ordering of the divs that make up the link elements to have your links, section headers, images, socials, and news sign up in whatever order you want. You can also add extra links, etc. as you need. More social icons can be pulled from [FontAwesome](https://fontawesome.com/).
+You can also change the ordering of the divs that make up the link elements to have your links, section headers, images, and socials in whatever order you want. You can also add extra links, etc. as you need. More social icons can be pulled from [FontAwesome](https://fontawesome.com/).
 
 Feel free to make any customizations (or as few) as you want. This is meant to be a starting point for you.
 
